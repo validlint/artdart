@@ -1,0 +1,24 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Classical landing page with responsive design.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sestri4kina/landing-page.git"
+  },
+  "author": "Anastasiia Bratochkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sestri4kina/landing-page/issues"
+  },
+  "homepage": "https://github.com/Sestri4kina/landing-page#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^3.0.0"
+  }
+}
